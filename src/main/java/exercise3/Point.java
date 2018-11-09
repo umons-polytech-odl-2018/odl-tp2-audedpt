@@ -1,6 +1,6 @@
 package exercise3;
 
-public class Point {
+public class Point{
 	private int x;
 	private int y;
 
@@ -24,4 +24,5 @@ public class Point {
 	public int getY() {
 		return this.y;
 	}
+
 }
